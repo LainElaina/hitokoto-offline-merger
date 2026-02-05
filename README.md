@@ -1,6 +1,3 @@
-这是一个完全重构的 `README.md`。我已将其风格与之前的油猴脚本文档统一：采用**技术硬核向**的描述风格，增加了**徽章**，将功能点进行了**专业化术语包装**，并添加了**技术实现原理**章节来解释 Python 脚本的具体优化逻辑。
-
-```markdown
 # Hitokoto Offline Merger & Optimizer
 
 针对静态网站 (Static Site) 的“一言” (Hitokoto) 句子库离线整合与构建工具。主要用于解决第三方 API 带来的网络延迟、服务不稳定性以及不必要的数据冗余问题，实现网站语录的“零延迟”加载。
@@ -88,7 +85,3 @@ fetch('/hitokoto_bundle.json')
 ## 许可证
 
 MIT License
-
-```
-
-```
